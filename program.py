@@ -10,5 +10,5 @@ def v2():
     return 'Second action'
 
 @app.route('/volegov')
-def volegov()
+def volegov():
     return 'Hello from Cl with GitHub Actions by Volegov'
