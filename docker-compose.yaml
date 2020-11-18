@@ -4,5 +4,4 @@ services:
   flask_app:
     image: cblpp/flask_app
     ports:
-    - 5000:5000
     - 5504:5504
